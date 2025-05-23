@@ -113,8 +113,8 @@
   "project": {
     "files": [
       {
-        "name": "MCU datalogger.kicad_pcb",
-        "open": false,
+        "name": "MCU datalogger.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": false,
