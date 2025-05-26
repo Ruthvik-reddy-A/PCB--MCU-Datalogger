@@ -1,4 +1,7 @@
 fp-info-cache
 *backups/*
-*Gerbers/*
+*Gerbers/
+sym-lib-table
+h -u origin master
+connectors.kicad_sch
 ~MCU datalogger.kicad_sch.lck
