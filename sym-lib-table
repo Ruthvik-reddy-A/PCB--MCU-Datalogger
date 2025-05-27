@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "DS1337S_")(type "KiCad")(uri "${KIPRJMOD}/MCU datalogger_Library/DS1337S_/DS1337S_.kicad_sym")(options "")(descr ""))
-  (lib (name "ATMEGA328-AU")(type "KiCad")(uri "${KIPRJMOD}/MCU datalogger_Library/ATMEGA328-AU/ATMEGA328-AU.kicad_sym")(options "")(descr ""))
-)
