@@ -1,7 +1,7 @@
-fp-info-cache
-MCU datalogger_Library/
-MCU datalogger-backups/
-h -u origin master
-fp-lib-table
+*fp-info-cache
+*MCU datalogger_Library/
+*MCU datalogger-backups/
+*h -u origin master
+*fp-lib-table
 *#auto_saved_files#
-~MCU datalogger.kicad_sch.lck
+*~MCU datalogger.kicad_sch.lck
