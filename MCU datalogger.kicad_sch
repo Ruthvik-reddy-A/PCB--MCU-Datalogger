@@ -4090,9 +4090,11 @@
 			(stroke
 				(width 0)
 				(type dash)
+				(color 0 0 255 1)
 			)
 			(fill
-				(type none)
+				(type color)
+				(color 255 255 255 1)
 			)
 			(uuid 12013c25-6ef8-4991-b0c8-79e655f2735a)
 		)
