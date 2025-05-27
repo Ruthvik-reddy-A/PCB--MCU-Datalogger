@@ -113,14 +113,26 @@
   "project": {
     "files": [
       {
+        "name": "MCU datalogger.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 951,
+          "pos_y": 0,
+          "size_x": 978,
+          "size_y": 1017
+        }
+      },
+      {
         "name": "MCU datalogger.kicad_sch",
         "open": true,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 818,
-          "pos_y": 17,
-          "size_x": 978,
+          "pos_x": -9,
+          "pos_y": 0,
+          "size_x": 1154,
           "size_y": 1017
         }
       }
