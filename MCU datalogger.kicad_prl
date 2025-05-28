@@ -1,37 +1,38 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
-      "shapes": 1.0,
+      "shapes": 0.8600000143051147,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 1.0
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "footprints_front",
       "footprints_back",
       "footprint_values",
@@ -47,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -111,32 +112,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "MCU datalogger.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 951,
-          "pos_y": 0,
-          "size_x": 978,
-          "size_y": 1017
-        }
-      },
-      {
-        "name": "MCU datalogger.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": -9,
-          "pos_y": 0,
-          "size_x": 1154,
-          "size_y": 1017
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {

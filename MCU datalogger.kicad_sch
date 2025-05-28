@@ -4067,8 +4067,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 133.35 25.4) (xy 256.54 25.4) (xy 256.54 102.87) (xy 255.27 104.14) (xy 135.89 104.14) (xy 133.35 101.6)
-				(xy 133.35 104.14)
+				(xy 27.94 31.75) (xy 127 31.75) (xy 127 90.17) (xy 27.94 90.17)
 			)
 			(stroke
 				(width 0)
@@ -4079,24 +4078,7 @@
 				(type color)
 				(color 255 255 255 1)
 			)
-			(uuid 11dc0b69-0727-4b85-91eb-6c3ea6aa698d)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 219.71 121.92) (xy 242.57 121.92) (xy 242.57 158.75) (xy 219.71 158.75)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-				(color 0 0 255 1)
-			)
-			(fill
-				(type color)
-				(color 255 255 255 1)
-			)
-			(uuid 12013c25-6ef8-4991-b0c8-79e655f2735a)
+			(uuid 0b0fdc2f-de09-4770-aacc-106bfbed6b9c)
 		)
 	)
 	(rule_area
@@ -4113,13 +4095,14 @@
 				(type color)
 				(color 255 255 255 1)
 			)
-			(uuid 774732e3-66de-47e7-bf8c-a2a4d89c5c13)
+			(uuid 0e9ed68e-b162-401f-a6b2-9addb776d54d)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 27.94 31.75) (xy 127 31.75) (xy 127 90.17) (xy 27.94 90.17)
+				(xy 133.35 25.4) (xy 256.54 25.4) (xy 256.54 102.87) (xy 255.27 104.14) (xy 135.89 104.14) (xy 133.35 101.6)
+				(xy 133.35 104.14)
 			)
 			(stroke
 				(width 0)
@@ -4130,7 +4113,24 @@
 				(type color)
 				(color 255 255 255 1)
 			)
-			(uuid c0a203f4-7200-4c2a-9e85-94d05d61c64d)
+			(uuid 27050b56-146a-43f6-9bc5-a938cc4f4ac0)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 219.71 121.92) (xy 242.57 121.92) (xy 242.57 158.75) (xy 219.71 158.75)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+				(color 0 0 255 1)
+			)
+			(fill
+				(type color)
+				(color 255 255 255 1)
+			)
+			(uuid d95b2f2a-22ae-4de5-b54d-d61e9b6aca1c)
 		)
 	)
 	(symbol
@@ -6291,7 +6291,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6f99b10a-3c19-409a-8056-545077072c58")
+			(uuid "6f99b10a-3c19-409a-8056-545077072c59")
 		)
 		(instances
 			(project ""
@@ -7118,7 +7118,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "07e191a5-57f8-46c8-b2ac-4f8c9591a33b")
+			(uuid "07e191a5-57f8-46c8-b2ac-4f8c9591a33c")
 		)
 		(instances
 			(project ""
