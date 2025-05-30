@@ -115,12 +115,12 @@
     "files": [
       {
         "name": "MCU datalogger.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": -9,
-          "pos_y": 0,
+          "pos_x": -2,
+          "pos_y": 1,
           "size_x": 1154,
           "size_y": 1017
         }
