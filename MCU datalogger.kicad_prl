@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 6,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -23,10 +23,10 @@
       "lockedItems": false,
       "otherItems": false,
       "pads": false,
-      "text": true,
-      "tracks": false,
-      "vias": false,
-      "zones": false
+      "text": false,
+      "tracks": true,
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       "vias",
@@ -72,6 +72,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -84,7 +86,9 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
       222,
@@ -95,6 +99,8 @@
       136,
       136,
       98,
+      136,
+      136,
       136,
       136
     ],
@@ -115,26 +121,14 @@
     "files": [
       {
         "name": "MCU datalogger.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": -2,
-          "pos_y": 1,
-          "size_x": 1154,
-          "size_y": 1017
-        }
-      },
-      {
-        "name": "MCU datalogger.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": -9,
-          "pos_y": 0,
-          "size_x": 1154,
-          "size_y": 1017
+          "maximized": true,
+          "pos_x": -11,
+          "pos_y": -11,
+          "size_x": 1942,
+          "size_y": 1030
         }
       }
     ]
