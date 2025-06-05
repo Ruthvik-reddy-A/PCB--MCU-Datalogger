@@ -32,7 +32,8 @@ Top View of the PCB:
 
 Back View (if applicable):
 
-![Back View](readme_assets/pcb_render_bottom.png)
+![Back View](![image](https://github.com/user-attachments/assets/6cc9bdd9-4c8e-4abc-9560-f90c68e91c3e)
+)
 
 ---
 
